@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **islamkaliym@gmail.com**
 
-- ⚡ Fun fact **I love cats**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/kaliym-islam-0a2734236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaliym-islam-0a2734236" height="30" width="40" /></a>
